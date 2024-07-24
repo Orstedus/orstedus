@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center" >
   <img src="https://github.com/Orstedus/orstedus/blob/main/shell.gif?raw=true" width="400"/>
   <img src="https://komarev.com/ghpvc/?username=orstedus&style=flat-square&color=blue" alt=""/>
 </div>
@@ -42,4 +42,5 @@ Practising coding on CodeWars.
 
 ## Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=orstedus&theme=tokyonight)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orstedus&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
