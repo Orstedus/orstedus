@@ -32,6 +32,7 @@ Practising coding on CodeWars.
 ### Pentest
 <div>
     <img src="https://github.com/Orstedus/orstedus/blob/main/pentest-icons/aircrack-ng.png" title="AC-NG" alt="AC-NG" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/Orstedus/orstedus/blob/main/pentest-icons/metasploit-logo.png" title="MetaSploit" alt="MetaSploit" width="40" height="40"/>&nbsp;
     <img src="https://github.com/Orstedus/orstedus/blob/main/pentest-icons/wireshark.png" title="Wireshark" alt="Wireshark" width="40" height="40"/>&nbsp;
     <img src="https://github.com/Orstedus/orstedus/blob/main/pentest-icons/sqlmap.png" title="SQLMap" alt="SQLMap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/Orstedus/orstedus/blob/main/pentest-icons/nmap.png" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
