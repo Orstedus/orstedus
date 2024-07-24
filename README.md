@@ -1,7 +1,7 @@
 <div id="header" align="center" >
   <img src="https://github.com/Orstedus/orstedus/blob/main/shell.gif?raw=true" width="400"/>
-  <img src="https://komarev.com/ghpvc/?username=orstedus&style=flat-square&color=blue" alt=""/>
 </div>
+<img src="https://komarev.com/ghpvc/?username=orstedus&style=flat-square&color=blue" alt=""/>
 
 
 # Orsted???
