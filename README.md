@@ -6,27 +6,22 @@
 </div>
 
 
-# Orsted???
-## About me
-I'm cybersecurity specialist. Focusing on penetration testing, but also studying DevSecOps. \
-Working on my own projects like pentest scripts or physical pentest devices. \
-Learnt frontend and backend developing for year, React and ASP.NET. \
-Love to play CTF's on TryHackMe, start to write my own writeups. \
-Practising coding on CodeWars.
+# Orstuda Prostuda!!
+I wish i could play this windows factory thing on arch..
 
-## Coding and CyberSec platforms
+## Code and CyberSec
 - Pentesting - [TryHackMe](https://tryhackme.com/p/xxvatka)
 - Coding - [CodeWars](https://www.codewars.com/users/Orstedus/stats)
 
 ## Tools
 ### Programming
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="C#" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafochka" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
 ### Pentest
